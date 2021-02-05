@@ -12,11 +12,11 @@ Pet Shop</h1>
 
 ### Web
 
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readme-web.gif" alt="home web"  height="425" align="center">
+Under development
 
 ### Mobile
 
-<img src="https://github.com/jpm4rtinss/ProffyRocketseat/blob/master/images/readme-mobile.gif" alt="home web"  height="425" align="center">
+Under development
 
 ## Texts language
 
