@@ -1,6 +1,7 @@
 console.log('data')
-const creatNewLine = () => {
-  const content = `<td class="td" data-td>${nome}</td>
+const creatNewLine = (name, email) => {
+   const lineNewClient  = document.createElement('tr')
+  const content = `<td class="td" data-td>${name}</td>
   <td>${email}</td>
   <td>
       <ul class="tabela__botoes-controle">
@@ -8,6 +9,9 @@ const creatNewLine = () => {
           <li><button class="botao-simples botao-simples--excluir" type="button">Excluir</button></li>
       </ul>
   </td> `
+
+  lineNewClient.innerHTML = content
+  return lineNewClient
 }
  
 
