@@ -6,7 +6,7 @@ Pet Shop</h1>
 ## 🛠 Tech Stack
 
 - **JS**  
-- **CSS** (Grid layout e flexbox)  
+- **CSS**  
 -  **HTML**
 
 
